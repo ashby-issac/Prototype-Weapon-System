@@ -19,8 +19,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 769
     y: -190
-    width: 598
-    height: 1696
+    width: 596
+    height: 1683
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -55,7 +55,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":2.0,"g":0.16157974302768708,"b":0.0,"a":1.0}'
+      m_SerializableObject: '{"r":74.65597534179688,"g":0.31368058919906618,"b":0.0,"a":1.0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -1500,7 +1500,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":2.0,"g":0.16157974302768708,"b":0.0,"a":1.0}'
+      m_SerializableObject: '{"r":74.65597534179688,"g":0.31368058919906618,"b":0.0,"a":1.0}'
     m_Space: 2147483647
   m_Property:
     name: o
